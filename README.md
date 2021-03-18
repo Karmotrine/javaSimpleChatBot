@@ -1,2 +1,2 @@
 # javaSimpleChatBot
-I made a primitive AF chat bot in Java ^^.
+I made a primitive chat bot in Java.
