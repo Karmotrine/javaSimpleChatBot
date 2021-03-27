@@ -1,2 +1,2 @@
-# javaSimpleChatBot
-I made a primitive chat bot in Java.
+# Simple chat bot
+Primitive chat bot written in Java.
